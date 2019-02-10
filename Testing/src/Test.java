@@ -9,8 +9,6 @@ public class Test {
 		int z =x+y ;
 		System.out.print(z);
 
-		
-
-		
+	
 	}
 }
