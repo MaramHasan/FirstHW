@@ -12,6 +12,8 @@ public class ShoppingCartAppTest {
 	}
 	
 	
+	
+	
 	@Test
 	public void testAddSingleProductToShoppingCart() {
 		ShoppingCart cart = new ShoppingCart();
