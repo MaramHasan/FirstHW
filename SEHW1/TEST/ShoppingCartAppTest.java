@@ -11,6 +11,7 @@ public class ShoppingCartAppTest {
 		Assert.assertEquals(0, cart.getProductCount());
 	}
 	
+	
 	@Test
 	public void testAddSingleProductToShoppingCart() {
 		ShoppingCart cart = new ShoppingCart();
